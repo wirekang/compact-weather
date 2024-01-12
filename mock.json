@@ -1,0 +1,170 @@
+{
+    "DailyForecasts": [
+        {
+            "Date": "2024-01-12T07:00:00+09:00",
+            "Day": {
+                "HasPrecipitation": false,
+                "Icon": 1,
+                "IconPhrase": "Sunny"
+            },
+            "EpochDate": 1705010400,
+            "Link": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=1&lang=en-us",
+            "MobileLink": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=1&lang=en-us",
+            "Night": {
+                "HasPrecipitation": false,
+                "Icon": 33,
+                "IconPhrase": "Clear"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "Temperature": {
+                "Maximum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 45.0
+                },
+                "Minimum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 22.0
+                }
+            }
+        },
+        {
+            "Date": "2024-01-13T07:00:00+09:00",
+            "Day": {
+                "HasPrecipitation": false,
+                "Icon": 5,
+                "IconPhrase": "Hazy sunshine"
+            },
+            "EpochDate": 1705096800,
+            "Link": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=2&lang=en-us",
+            "MobileLink": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=2&lang=en-us",
+            "Night": {
+                "HasPrecipitation": false,
+                "Icon": 33,
+                "IconPhrase": "Clear"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "Temperature": {
+                "Maximum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 44.0
+                },
+                "Minimum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 22.0
+                }
+            }
+        },
+        {
+            "Date": "2024-01-14T07:00:00+09:00",
+            "Day": {
+                "HasPrecipitation": false,
+                "Icon": 1,
+                "IconPhrase": "Sunny"
+            },
+            "EpochDate": 1705183200,
+            "Link": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=3&lang=en-us",
+            "MobileLink": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=3&lang=en-us",
+            "Night": {
+                "HasPrecipitation": false,
+                "Icon": 38,
+                "IconPhrase": "Mostly cloudy"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "Temperature": {
+                "Maximum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 53.0
+                },
+                "Minimum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 17.0
+                }
+            }
+        },
+        {
+            "Date": "2024-01-15T07:00:00+09:00",
+            "Day": {
+                "HasPrecipitation": false,
+                "Icon": 8,
+                "IconPhrase": "Dreary"
+            },
+            "EpochDate": 1705269600,
+            "Link": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=4&lang=en-us",
+            "MobileLink": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=4&lang=en-us",
+            "Night": {
+                "HasPrecipitation": false,
+                "Icon": 8,
+                "IconPhrase": "Dreary"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "Temperature": {
+                "Maximum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 38.0
+                },
+                "Minimum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 16.0
+                }
+            }
+        },
+        {
+            "Date": "2024-01-16T07:00:00+09:00",
+            "Day": {
+                "HasPrecipitation": false,
+                "Icon": 7,
+                "IconPhrase": "Cloudy"
+            },
+            "EpochDate": 1705356000,
+            "Link": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=5&lang=en-us",
+            "MobileLink": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?day=5&lang=en-us",
+            "Night": {
+                "HasPrecipitation": false,
+                "Icon": 38,
+                "IconPhrase": "Mostly cloudy"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "Temperature": {
+                "Maximum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 42.0
+                },
+                "Minimum": {
+                    "Unit": "F",
+                    "UnitType": 18,
+                    "Value": 20.0
+                }
+            }
+        }
+    ],
+    "Headline": {
+        "Category": "mild",
+        "EffectiveDate": "2024-01-14T07:00:00+09:00",
+        "EffectiveEpochDate": 1705183200,
+        "EndDate": null,
+        "EndEpochDate": null,
+        "Link": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?lang=en-us",
+        "MobileLink": "http://www.accuweather.com/en/kr/daejeon/223352/daily-weather-forecast/223352?lang=en-us",
+        "Severity": 4,
+        "Text": "Mild Sunday"
+    }
+}
